@@ -1,0 +1,13 @@
+.l-content {
+    display: flex;
+    justify-content: flex-end;
+    color: $white;
+    padding: 1em 10em 5em;
+    margin-top: -80px;
+    box-shadow: inset 0px 0px 56px 300px rgba(0, 0, 0, 0.75);
+    height: calc(100vh - 220px);
+}
+
+.l-content-wrap {
+    width: calc(100% - 300px);
+}

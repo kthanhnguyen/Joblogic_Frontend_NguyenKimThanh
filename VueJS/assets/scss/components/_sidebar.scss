@@ -1,0 +1,18 @@
+.l-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    background: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    color: $white;
+    text-align: center;
+
+    .l-logo {
+        padding: 8em 0;
+
+        img {
+            margin: 0 auto;
+        }
+    }
+}
